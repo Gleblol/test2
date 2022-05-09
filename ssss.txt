@@ -1,4 +1,9 @@
 sssaaaaaaaaaa
+<<<<<<< HEAD
 fdgfdg
 fdgfd
 sssssssssddasdasssssssss
+=======
+sadsadasdas
+dsadasd
+>>>>>>> f8ec23901c80108aaef28f4e87138845a61290f8
